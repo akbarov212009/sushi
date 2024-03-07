@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    li.bg-1{
+        /* background: #F7F7F7; */
+        width: 100%;
+        min-height: 900px;
+    }
+    .Need-For{
+        color: #333;
+        font-family: "Sofia Pro";
+        font-size: 64px;
+        font-style: normal;
+        font-weight: 600;
+        margin-top: 80px;
+    }
+    .lorem{
+        margin-top: 30px;
+    }
+    .BUY-NOW{
+        max-width: 130px; 
+        height: 50px;
+        background: #E21A43;
+    }
+    .SEE-MORE{
+        max-width: 130px;
+        height: 50px;
+        border: 1px solid #E21A43;
+    }
+    .yetti-img-row{
+        background-color: white;
+        min-height: 970px;
+        min-height: 130px;
+        margin-top: -65px;
+    }
+    .chiziq{
+        width: 40px;
+        height: 1px;
+        background-color: black;
+    }
+    .card-col2{
+        background-color: white;
+        border: 10px solid  #F7F7F7;
+    
+    }
+    .card-img1-button{
+        max-width: 130px;
+        height: 50px;
+        background-color: #E21A431A;
+        border: 1px solid white;
+    }
+    .hover{
+        margin-top: -45px;
+    }
+    .rotate-col-5{
+        transform: rotate(-45deg);
+    }
+}
+:root{
+--bg-color: #1f1f21 ;
+--text-color:#fff;
+--main-color: #ffae00;
+}
+body{
+    height: 100vh;
+    background-size: 100% 143px;
+    background-position:0 510px ;
+    overflow: hidden;
+
+}
+.navbar ul li{
+    display: flex;
+}
